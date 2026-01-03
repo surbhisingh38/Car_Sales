@@ -1,6 +1,6 @@
 #  🚗 Car Sales Analysis Dashboard
-
-## 📌 Project Overview
+![dashboardCarS](https://github.com/user-attachments/assets/aed8bcec-3fec-4b57-9f18-5bf7299736a3)
+## Project Overview
 This project focuses on analyzing car sales data to uncover meaningful business insights using interactive dashboards.
 The objective is to track sales performance, identify trends, and support data-driven decision-making through time-based
 metrics such as YTD, MTD, and YoY.
